@@ -14,9 +14,9 @@
 </div>
 &nbsp;
 
--  🔭 I'm student in information systems, I have experience with development in Javascript and Java object oriented!
-- 👀 Dedicated and organized in love for the flame of TI and programming!
-- ✌️ In search of a opportunity as dev backend
+-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="30" height="30" /> I'm student in information systems, I have experience with development in Javascript and Java object oriented!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /> Dedicated and organized in love for the flame of TI and programming!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="30" height="30" /> In search of a opportunity as dev backend
 
 &nbsp;
 ## 🧑‍💻&nbsp;Programing Languages
