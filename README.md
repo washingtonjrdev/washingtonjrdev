@@ -1,4 +1,5 @@
-# Hi 👋, I'm Washington Jose
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" height="100" />, I'm Washington Jose
+
 
 <p aling="left"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=washingtonjrdev&color=FF7139" />
 </p>
