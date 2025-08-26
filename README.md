@@ -1,9 +1,9 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" height="100" /> Hi I'm Washington Jose &nbsp; &nbsp; &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=washingtonjrdev&label=Visualizações%20de%20perfil&color=important&style=for-the-badge)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" height="100" /> Hi I'm Washington Jose &nbsp; &nbsp; &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=washingtonjrdev&label=Views%20of%20Profile&color=important&style=for-the-badge)
 
 
-💻 Desenvolvedor web e mobile | Estudante de IA | Foco em Resultados
+💻 Developer web e mobile | Student of IA | Focus on Results
 
-## 💼 Stack de Tecnologias
+## 💼 Stack of development
 
 | Front-end | Back-end | Frameworks |
 |-----------|----------|--------|
@@ -15,4 +15,4 @@
 ## 📈 GitHub Stats
 ![Washington Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=washingtonjrdev&show_icons=true&theme=default)
 
-<p align="center"><i>Aberto a oportunidades como Desenvolvedor Júnior | Projetos Freelance</i></p>
+<p align="center"><i> Open to Opportunities as a Junior Developer | Freelance Projects</i></p>
