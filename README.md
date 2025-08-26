@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" height="100" /> Hi I'm Washington Jose &nbsp; &nbsp; &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=washingtonjrdev&label=Views%20of%20Profile&color=important&style=for-the-badge)
 
 
-💻 Web and Mobile Developer | Student of IA | Focus on Results
+💻 Web and Mobile Developer | 📖 Student of IA | 🧠 Focus on Results
 
 ## 💼 Stack of Development
 
