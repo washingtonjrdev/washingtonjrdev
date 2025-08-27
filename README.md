@@ -5,7 +5,7 @@
 
 ## 💼 Development
 
-|   🌐 Categoria  |      🖥 Stacks                                                                               | 📚 Experiência | 💡 Projetos
+|   🌐 Category  |      🖥 Stacks                                                                               | 📚 Experience | 💡 Projects
 |-----------------|---------------------------------------------------------------------------------------------|-------------|---------|
 |  **Frontend** 🎨  | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000) ![HTML5](https://img.shields.io/badge/HTML5-61DAFB?style=for-the-badge&logo=html5&logoColor=000000) ![CSS3](https://img.shields.io/badge/CSS3-61DAFB?style=for-the-badge&logo=css3&logoColor=000000) ![JavaScript](https://img.shields.io/badge/JavaScript-61DAFB?style=for-the-badge&logo=javascript&logoColor=000000)                        | Intermediário | [Portfólio](#)|
 | **Backend**   ⚡  | ![Node.js](https://img.shields.io/badge/Node.js-F7DF1E?style=for-the-badge&logo=node.js&logoColor=000000) ![Ruby](https://img.shields.io/badge/Ruby-F7DF1E?style=for-the-badge&logo=ruby&logoColor=000000) ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=000000) ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=000000) | Intermediário | [API Rest](#)|
