@@ -1,5 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" height="100" /> Hi I'm Washington Jose &nbsp; &nbsp; &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=washingtonjrdev&label=Views%20of%20Profile&color=important&style=for-the-badge)
-
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" height="100" /> Hi I'm Washington Jose &nbsp; &nbsp; &nbsp; ![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=washingtonjrdev&left_text=%F0%9F%91%80%20VISITS&right_color=000000)
 
 💻 Web and Mobile Developer |  📖 Student of IA |  🧠 Focus on Results
 
