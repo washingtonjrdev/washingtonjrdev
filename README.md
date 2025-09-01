@@ -1,6 +1,6 @@
 # Washington Jose &nbsp;&nbsp; ![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=washingtonjrdev&left_text=👥%20VISITS&right_color=000000)
 
-![Badge WJ](https://img.shields.io/badge/Washington%20-Developer-61DAFB?style=for-the-badge&logo=github&logoColor=white)
+![Badge WJ](https://img.shields.io/badge/FullStack%20-Developer-61DAFB?style=for-the-badge&logo=github&logoColor=white)
 
 📍 From Brazil | 🎯 Always learning new tech | 💡 Building creative solutions
 
